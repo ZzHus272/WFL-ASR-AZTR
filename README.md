@@ -16,10 +16,10 @@ WFL-ASR is a configurable deep learning model designed for automatic phoneme seg
 1. **Download the model:** Download the **AZTR WFL model** from [**here**](https://github.com/ZzHus272/WFL-ASR-AZTR/releases/tag/AZTR-model).  
 2. **Deploy the model:** Extract the model files directly into the directory, ensure they are contained within a folder named **aztr**.  
 3. **Verify Path:** Your directory structure should look like this:  
-* **aztr/best\_model.pt**   
-* **aztr/config.yaml**  
-* **aztr/langs.txt**  
-* **aztr/phonemes.txt**  
+* **`aztr/best\_model.pt`**   
+* **`aztr/config.yaml`**  
+* **`aztr/langs.txt`**  
+* **`aztr/phonemes.txt`**  
    
 
 ### **Phase 3: Running Inference**
