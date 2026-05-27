@@ -63,6 +63,7 @@ WFL-ASR, frame düzeyinde BIO etiketleme kullanarak otomatik fonem segmentasyonu
      pip install -r requirements.txt
      ```
      > **Not:** Bilgisayarınızda Python'ın kurulu olması gerekmektedir.
+     
      > **Not:** torch ve torchaudio'yu CUDA'nıza uygun olarak yüklemeniz gerekmektedir.
 
 ---
